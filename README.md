@@ -1,11 +1,14 @@
 ahorcadoGrupo2
 Prueba
 
-Estoy añadiendo lineas de prueba a ver si me entero de algo de lo que hay que hacer aqui.
-Vaya mierda de control de control de versiones.
+Alberto: Estoy añadiendo lineas de prueba a ver si me entero de algo de lo que hay que hacer aqui.
 
-He podido meterle mano a el archivo y todas esas movidas, creo que incluso he podido comitear desde tu repositorio los
+
+Enrique: He podido meterle mano a el archivo y todas esas movidas, creo que incluso he podido comitear desde tu repositorio los
 cambios que habia hecho, se me hace raro pero no se si se pueden dar permisos o no para eso.
 Sin mas motivo yo :)
 
 JAVIER: ya estoy dentro vamos a probar el primer pull request!!!
+
+Alberto: He subido mi codigo del ahorcado, ya podemos hacer recomendaciones para mejorarlo.
+Saludos.
