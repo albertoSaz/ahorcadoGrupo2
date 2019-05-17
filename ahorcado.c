@@ -5,7 +5,7 @@
 int main() {
 char frase[60],rep[100],temporal[100];
 char pal=-87;
-int longitud=0,i,j=0,inicial=0,acertado=0,temp=0,oportunidades=5;
+int longitud=0,i,j=0,inicial=0,acertado=0,temp=0,oportunidades=6;
 int repetido=0,gano=0;
 
 printf("\tJuego del Ahorcado\n");
