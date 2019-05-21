@@ -12,3 +12,5 @@ JAVIER: ya estoy dentro vamos a probar el primer pull request!!!
 
 Alberto: He subido mi codigo del ahorcado, ya podemos hacer recomendaciones para mejorarlo.
 Saludos.
+
+Miquel: Pull request wii!!
